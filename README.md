@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I am Alex.
+I work full time at excellent company *@skyeng* as Senior Backend Programmer. We help people learn English!
