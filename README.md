@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I am Alex.
+Hi, I am Alex.  
 I work full time at excellent company *[@skyeng](https://github.com/skyeng)* as Senior Backend Programmer. We help people learn English!
