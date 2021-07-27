@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Skyeng](https://skyeng.ru/)
 
-- 💬 Ask me about **PHP, Symfony, Laravel**
+- 💬 Ask me about **PHP, Symfony**
 
 - 📫 How to reach me: **amelihovv@ya.ru**
 
