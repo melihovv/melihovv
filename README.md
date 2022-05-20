@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melihovv" alt="melihovv" /> </p>
 
-- 🔭 I’m currently working at [Skyeng](https://skyeng.ru/)
-
 - 💬 Ask me about **PHP, Symfony**
 
 - 📫 How to reach me: **amelihovv@ya.ru**
