@@ -14,7 +14,7 @@ Senior Software Engineer with more than 10 years of commercial experience. I hav
 - PostgreSQL, MySQL
 - GitHub, GitLab, Bitbucket
 - Jira, Confluence
-- 
+
 <br>
 <div align="center">
    <a href="https://t.me/melihovv" target="_blank">
