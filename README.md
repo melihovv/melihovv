@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate backend developer from Russia</h3>
+Senior Software Engineer with more than 10 years of commercial experience. I have excellent knowledge in backend development on PHP/Python/Go and some experience with frontend development on JS. In general worked with monolithic and microservice architectures.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melihovv" alt="melihovv" /> </p>
+### Key points
+- Currently, working in [Skyeng](https://www.linkedin.com/company/skyeng/)
+- Have experience not only as a senior developer but also as a tech lead
+- Love to learn something new, and love to help others with it
 
-- 💬 Ask me about **PHP, Symfony**
-
-- 📫 How to reach me: **amelihovv@ya.ru**
-
-<p align="left"><a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://symfony.com" target="_blank"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=melihovv&show_icons=true" alt="melihovv" /></p>
-
-<p align="center">
-<a href="https://twitter.com/amelihovv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="amelihovv" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/alexander-melihov-714415a4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alexander-melihov-714415a4" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/5469133" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="5469133" height="30" width="30" /></a>
-<a href="https://fb.com/amelihovv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="amelihovv" height="30" width="30" /></a>
-<a href="https://instagram.com/amelihovv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="amelihovv" height="30" width="30" /></a>
-<a href="https://medium.com/@melihovv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@melihovv" height="30" width="30" /></a>
-</p>
+### 🛠 Technical Stack
+- PHP (Symfony, Laravel)
+- JS (VueJS)
+- Python
+- Go
+- PostgreSQL, MySQL
+- GitHub, GitLab, Bitbucket
+- Jira, Confluence
